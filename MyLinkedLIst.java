@@ -1,5 +1,5 @@
 import java.util.Iterator;
-
+ 
 public class MyLinkedList<E>
 {
     private DoubleNode first;
