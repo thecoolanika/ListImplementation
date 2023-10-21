@@ -4,7 +4,7 @@ Overview
 This repository contains a set of coding projects focused on fundamental data structures, particularly the implementation of a doubly linked list and an array list in Java. 
 These projects serve as building blocks for understanding and working with dynamic data structures.
 
-Projects
+Projects: 
 DoubleNode:
 Description: The DoubleNode project lays the foundation for the linked list and array list implementations. 
 It provides a flexible and reusable doubly linked node structure that is crucial for constructing dynamic data structures.
